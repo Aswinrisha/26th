@@ -1,0 +1,15 @@
+document                        window
+<Represents HTML document or    Represents a browser window 
+webpage that is loaded in the 
+blowser
+
+<It is loaded inside the window It is the first object loaded in
+                                 the browser
+
+<It is an object of window      It is an object of the browser
+property
+
+<The document is part of BOM    It is a part of BOM but not of 
+and DOM                         DOM
+
+<syntax:document.propertyname;  syntax:window.propertyname;
